@@ -1,4 +1,4 @@
-roceso selectiva_doble
+Proceso selectiva_doble
 	//determinar si un numero es par o impar
 	definir num1 Como Entero;
 	escribir "ingresar numero: ";
